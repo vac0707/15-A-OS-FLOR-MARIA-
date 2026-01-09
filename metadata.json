@@ -1,0 +1,7 @@
+{
+  "name": "Flor María - Mis 15 Años",
+  "description": "Invitación mágica y elegante para los 15 años de Flor María, inspirada en cuentos de hadas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
